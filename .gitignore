@@ -1,0 +1,11 @@
+client/node_modules
+
+
+
+
+
+venv
+server/api
+server/core/home
+server/core/BookManage/migrations
+
